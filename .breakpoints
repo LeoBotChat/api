@@ -1,0 +1,34 @@
+{
+  "files": {
+    "controllers/cache/gban.json": [
+      {
+        "id": "ee7749a6-fceb-4928-9cad-c32573425a8a",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ],
+    "controllers/r.js": [
+      {
+        "id": "c902d7fd-ca5e-4d4f-a063-865db9532e35",
+        "line": 9,
+        "version": 260,
+        "index": 665
+      }
+    ],
+    "server.js": [
+      {
+        "id": "eb1a5eb9-9f73-480b-9fac-658f37b64ba2",
+        "line": 19,
+        "version": 1,
+        "index": 704
+      },
+      {
+        "id": "65df84a2-4689-4e9f-b3d6-16f19c04e690",
+        "line": 74,
+        "version": 1,
+        "index": 2204
+      }
+    ]
+  }
+}
